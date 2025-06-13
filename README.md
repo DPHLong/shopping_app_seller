@@ -1,4 +1,4 @@
-# vendor_app
+# shopping_app_seller
 
 A 3-in-1 Flutter project.
 
