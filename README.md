@@ -26,9 +26,19 @@ Client: Flutter, Provider, go_router, Stream-Builder
 
 - Sign Out
 
-# Usage
+# Installation
 
-- In this Repo there are only lib folder and pubspec.yaml, which contain the main source codes.
+- Create Firebase Project
+
+- Enable Authentication
+
+- Make Firestore Rules
+
+- Create Android, iOS & Web Apps
+
+- Copy files in lib and pubspec.yaml into your app-folder
+
+# Notes
 
 - All 3 code bases - Seller, Buyer and Admin Panel - can work independently.
 
